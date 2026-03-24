@@ -1,0 +1,9 @@
+# AWS/Terraform secrets
+*.tfvars
+*.tfvars.json
+.terraform/
+terraform.tfstate*
+
+# Credentials (if you use a local file)
+credentials
+.env
